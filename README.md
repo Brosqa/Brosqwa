@@ -1,6 +1,6 @@
 ```java
 class Brosqa {
-	public String stupid;
+	public boolean stupid;
 
 	public static void main(String[] args) {
 		this.stupid = true;
